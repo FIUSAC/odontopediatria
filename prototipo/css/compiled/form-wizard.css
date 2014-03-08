@@ -89,7 +89,8 @@
   font-weight: 600;
   cursor: auto;
   font-size: 12px;
-  width: 120px;
+  
+  padding:10px 10px;
   text-align: left;
   position: relative;
   top: 2px; }
